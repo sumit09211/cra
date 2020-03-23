@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sumit09211/cra.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sumit09211/cra.git/static/js/main.1b6ab294.chunk.js",
-    "main.js.map": "/sumit09211/cra.git/static/js/main.1b6ab294.chunk.js.map",
-    "runtime-main.js": "/sumit09211/cra.git/static/js/runtime-main.85919f93.js",
-    "runtime-main.js.map": "/sumit09211/cra.git/static/js/runtime-main.85919f93.js.map",
-    "static/js/2.b4ab6859.chunk.js": "/sumit09211/cra.git/static/js/2.b4ab6859.chunk.js",
-    "static/js/2.b4ab6859.chunk.js.map": "/sumit09211/cra.git/static/js/2.b4ab6859.chunk.js.map",
-    "index.html": "/sumit09211/cra.git/index.html",
-    "precache-manifest.fa24077dfe45a98285e17f2c55beee41.js": "/sumit09211/cra.git/precache-manifest.fa24077dfe45a98285e17f2c55beee41.js",
-    "service-worker.js": "/sumit09211/cra.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/sumit09211/cra.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b4ab6859.chunk.js.LICENSE.txt": "/sumit09211/cra.git/static/js/2.b4ab6859.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/sumit09211/cra.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/sumit09211/cra/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sumit09211/cra/static/js/main.9625795b.chunk.js",
+    "main.js.map": "/sumit09211/cra/static/js/main.9625795b.chunk.js.map",
+    "runtime-main.js": "/sumit09211/cra/static/js/runtime-main.ce7051d2.js",
+    "runtime-main.js.map": "/sumit09211/cra/static/js/runtime-main.ce7051d2.js.map",
+    "static/js/2.b4ab6859.chunk.js": "/sumit09211/cra/static/js/2.b4ab6859.chunk.js",
+    "static/js/2.b4ab6859.chunk.js.map": "/sumit09211/cra/static/js/2.b4ab6859.chunk.js.map",
+    "index.html": "/sumit09211/cra/index.html",
+    "precache-manifest.4ddeed250a2ae4c1cab9c8b90329cd16.js": "/sumit09211/cra/precache-manifest.4ddeed250a2ae4c1cab9c8b90329cd16.js",
+    "service-worker.js": "/sumit09211/cra/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sumit09211/cra/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b4ab6859.chunk.js.LICENSE.txt": "/sumit09211/cra/static/js/2.b4ab6859.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sumit09211/cra/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.85919f93.js",
+    "static/js/runtime-main.ce7051d2.js",
     "static/js/2.b4ab6859.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1b6ab294.chunk.js"
+    "static/js/main.9625795b.chunk.js"
   ]
 }
